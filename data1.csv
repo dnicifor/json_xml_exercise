@@ -1,0 +1,10 @@
+courseid,enrollmentid,studentid,name,name,credits,enrollmentCap,startDate,grade,dob
+BUSX2001,3003,1001,"Harvey Kim",Economics,3,45,2020-08-31,,1996-12-12
+BUSX2003,3001,1001,"Harvey Kim","Spreadsheet Modeling",2,55,2020-08-31,,1996-12-12
+BUSX2004,3002,1001,"Harvey Kim","Pricing Management",2,50,2020-01-12,A,1996-12-12
+BUSX2004,3007,1002,"Emilia Harris","Pricing Management",2,50,2020-01-12,B-,1999-05-06
+BUSX2001,3004,1002,"Emilia Harris",Economics,3,45,2020-08-31,,1999-05-06
+BUSX2003,3006,1002,"Emilia Harris","Spreadsheet Modeling",2,55,2020-08-31,,1999-05-06
+BUSX2002,3005,1002,"Emilia Harris","Applied Statistics",2,20,2020-08-31,,1999-05-06
+BUSX2001,3009,1003,"Brian McCallister",Economics,3,45,2020-08-31,,1997-04-16
+BUSX2002,3008,1003,"Brian McCallister","Applied Statistics",2,20,2020-08-31,,1997-04-16
