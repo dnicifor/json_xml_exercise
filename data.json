@@ -1,0 +1,110 @@
+[
+	{
+		"courseid" : "BUSX2001",
+		"enrollmentid" : 3003,
+		"studentid" : 1001,
+		"name" : "Harvey Kim",
+		"name" : "Economics",
+		"credits" : 3,
+		"enrollmentCap" : 45,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1996-12-12"
+	},
+	{
+		"courseid" : "BUSX2003",
+		"enrollmentid" : 3001,
+		"studentid" : 1001,
+		"name" : "Harvey Kim",
+		"name" : "Spreadsheet Modeling",
+		"credits" : 2,
+		"enrollmentCap" : 55,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1996-12-12"
+	},
+	{
+		"courseid" : "BUSX2004",
+		"enrollmentid" : 3002,
+		"studentid" : 1001,
+		"name" : "Harvey Kim",
+		"name" : "Pricing Management",
+		"credits" : 2,
+		"enrollmentCap" : 50,
+		"startDate" : "2020-01-12",
+		"grade" : "A",
+		"dob" : "1996-12-12"
+	},
+	{
+		"courseid" : "BUSX2004",
+		"enrollmentid" : 3007,
+		"studentid" : 1002,
+		"name" : "Emilia Harris",
+		"name" : "Pricing Management",
+		"credits" : 2,
+		"enrollmentCap" : 50,
+		"startDate" : "2020-01-12",
+		"grade" : "B-",
+		"dob" : "1999-05-06"
+	},
+	{
+		"courseid" : "BUSX2001",
+		"enrollmentid" : 3004,
+		"studentid" : 1002,
+		"name" : "Emilia Harris",
+		"name" : "Economics",
+		"credits" : 3,
+		"enrollmentCap" : 45,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1999-05-06"
+	},
+	{
+		"courseid" : "BUSX2003",
+		"enrollmentid" : 3006,
+		"studentid" : 1002,
+		"name" : "Emilia Harris",
+		"name" : "Spreadsheet Modeling",
+		"credits" : 2,
+		"enrollmentCap" : 55,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1999-05-06"
+	},
+	{
+		"courseid" : "BUSX2002",
+		"enrollmentid" : 3005,
+		"studentid" : 1002,
+		"name" : "Emilia Harris",
+		"name" : "Applied Statistics",
+		"credits" : 2,
+		"enrollmentCap" : 20,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1999-05-06"
+	},
+	{
+		"courseid" : "BUSX2001",
+		"enrollmentid" : 3009,
+		"studentid" : 1003,
+		"name" : "Brian McCallister",
+		"name" : "Economics",
+		"credits" : 3,
+		"enrollmentCap" : 45,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1997-04-16"
+	},
+	{
+		"courseid" : "BUSX2002",
+		"enrollmentid" : 3008,
+		"studentid" : 1003,
+		"name" : "Brian McCallister",
+		"name" : "Applied Statistics",
+		"credits" : 2,
+		"enrollmentCap" : 20,
+		"startDate" : "2020-08-31",
+		"grade" : "",
+		"dob" : "1997-04-16"
+	}
+]
